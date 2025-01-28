@@ -1,0 +1,14 @@
+/* @import "tailwindcss/preflight";
+@tailwind utilities; */
+@import "tailwindcss";
+.no-scrollbar {
+  overflow: hidden !important;
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
