@@ -75,8 +75,23 @@ DinePay is a platform that simplifies the dining experience by allowing customer
   
 ## Future Enhancements
 
+
+
+
 - Implement backend authentication for the admin login.
 - Add real-time functionality to the message room using `socket.io`.
 - Enhance the dashboard with more analytics and reporting features.
 
 ---
+##ScreenShots
+![shotk7](https://github.com/user-attachments/assets/b9a1105b-e1d3-42ac-a0a6-f6a7e179b64e)
+
+![shotk6](https://github.com/user-attachments/assets/437b511c-745c-4c34-b7d1-77301839ca2d)
+
+![shotk5](https://github.com/user-attachments/assets/21bbabf1-16cc-48f9-8384-dabeed380cf8)
+![shotk4](https://github.com/user-attachments/assets/ad58b95c-b242-4f8a-b2a2-f7e1abee1c3c)
+![shotk3](https://github.com/user-attachments/assets/cfde71b7-099![shotk2](https://github.com/user-attachments/assets/4ae633d0-c7e5-4de5-a8aa-c6d5a5f807d9)
+2-4928-98bf-ac69b7dfec7b)
+
+![shotk1](https://github.com/user-attachments/assets/94631042-53a1-4bb2-acd5-2088ec7895ad)
+
