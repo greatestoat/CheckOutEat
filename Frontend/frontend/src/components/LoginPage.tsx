@@ -9,7 +9,7 @@ const LoginPage = () => {
   const navigate = useNavigate();
 
   const handleLogin = () => {
-    if (credentials.name === "admin" && credentials.password === "Rahul@123456") {
+    if (credentials.name === "admin" && credentials.password === "") {
       // Show notification
       setNotification({ message: "Admin has been logged in", show: true });
 
